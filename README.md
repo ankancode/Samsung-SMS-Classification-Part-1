@@ -1,5 +1,7 @@
 # Samsung-SMS-Classification-Part-1
 
+Classfication Classes - Spam, Ham, Info
+
 First I performed feature engineering on the dataset,
 
 - Replaced DATE,TIME,DIGITS,ALPHANUMERNIC and Hyperlink.
